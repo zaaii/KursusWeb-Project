@@ -21,7 +21,7 @@
 						</ul>
 					</li>
                     <li class="menu--item">
-	                    <a href="index-2.html" class="menu--link" title="Home">
+	                    <a href="tentang.php" class="menu--link" title="Home">
 	                        <i class='uil uil-user menu--icon'></i>
 	                        <span class="menu--label">Tentang</span>
 	                    </a>
