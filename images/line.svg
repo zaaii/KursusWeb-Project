@@ -1,10 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="50" height="2" viewBox="0 0 50 2">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #ed2a26;
-      }
-    </style>
-  </defs>
-  <rect width="50" height="2" class="cls-1"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="2" preserveAspectRatio="xMidYMid" viewBox="0 0 50 2"><defs><style>.cls-1{fill:#ed2a26}</style></defs><rect width="50" height="2" class="cls-1"/></svg>
